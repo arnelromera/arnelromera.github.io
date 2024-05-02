@@ -39,12 +39,11 @@
 	}
 }
 
-@media screen and (max-width: 300px) {
+@media screen and (max-width: 330px) {
     #navigation ul {
         position: static;
         background: black;
-        padding: 5px 5px;
+        padding: 10px 15px;
         text-align: center;
-        font-size: 5px;
     }
 }
