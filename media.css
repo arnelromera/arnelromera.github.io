@@ -38,15 +38,6 @@
 		width: 40px;
 	}
 }
-<<<<<<< HEAD
-
-@media screen and (max-width: 330px) {
-    #navigation ul {
-        position: static;
-        background: black;
-        padding: 10px 15px;
-        text-align: center;
-=======
 @media screen and (max-width: 300px) {
     #navigation ul {
         position: static;
@@ -54,6 +45,6 @@
         padding: 5px 5px;
         text-align: center;
         font-size: 5px;
->>>>>>> refs/remotes/origin/main
+
     }
 }
