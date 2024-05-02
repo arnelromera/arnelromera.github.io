@@ -42,7 +42,8 @@
     #navigation ul {
         position: static;
         background: black;
-        padding: 10px 15px;
+        padding: 5px 5px;
         text-align: center;
+        font-size: 5px;
     }
 }
