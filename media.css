@@ -38,3 +38,13 @@
 		width: 40px;
 	}
 }
+
+@media screen and (max-width: 300px) {
+    #navigation ul {
+        position: static;
+        background: black;
+        padding: 5px 5px;
+        text-align: center;
+        font-size: 5px;
+    }
+}
